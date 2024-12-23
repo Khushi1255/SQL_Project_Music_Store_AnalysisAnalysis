@@ -6,4 +6,4 @@ SQL project to analyze online music store data.You can examine the dataset with 
 2. PgAdmin4
 
 Schema - Music Store Database
-- <a href ="https://github.com/Khushi1255/SQL_Project_Music_Store_AnalysisAnalysis/blob/main/MusicDatabaseSchema.png"</a>
+- <a href ="https://github.com/Khushi1255/SQL_Project_Music_Store_AnalysisAnalysis/blob/main/MusicDatabaseSchema.png">Database</a>
